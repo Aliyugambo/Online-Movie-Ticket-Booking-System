@@ -1,0 +1,82 @@
+input[type="text"], input[type="password"] {
+    width: 300px;
+    margin-bottom: 9px;
+    padding: 5px;
+    margin-left: 19px;
+    border: 1px solid #ddd;
+    color: #666;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 27px;
+}
+input[type="email"] {
+    width: 300px;
+    margin-bottom: 9px;
+    padding: 5px;
+    margin-left: 39px;
+    border: 1px solid #ddd;
+    color: #666;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 0px;
+}
+input[type="submit"]{
+	margin-left: 20px;
+	background: #003865 none repeat scroll 0 0;
+	color: #ddd;
+	border: 1px solid #003637;
+	padding: 3px 10px;
+	border-radius: 4px;
+}
+input[type="submit"]:hover{
+	background: #166a8f;
+	border-radius: 4px;
+}
+.loginpage {
+    width: 420px;
+    margin: 50px auto;
+    background: #00334E;
+    padding: 20px;
+    box-shadow: 8px 7px 10px 1px #555;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 18px;
+    height: 250px;
+}
+.loginpage h2{
+	margin: 0;
+	text-align: center;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #999;
+}
+.loginpage input[type="submit"]{
+	float: right;
+	margin-right: 20px;
+	margin-top: 15px;
+	background: #17A05D;
+	color: #fff;
+	padding: 5px 20px;
+}
+.loginpage input[type="submit"]:hover{
+	background: #036BE9;
+}
+	.abcd{
+		float: right;
+		margin-right: 250px;
+		margin-bottom: -5px;
+		font-size: 14px;
+	}
+.ab {
+    float: right;
+    margin-right: -307px;
+    /* margin-bottom: 5px; */
+    margin-top: 50px;
+}
+	.dd {
+    float: right;
+    padding: 14px;
+    margin-right: -65px;
+    margin-top: -2px;
+    color: #fff;
+}
